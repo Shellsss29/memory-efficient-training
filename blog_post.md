@@ -387,7 +387,7 @@ Start with mixed precision. If you need more savings, add gradient checkpointing
 
 ## Resources
 
-- **Full code**: [GitHub Repository](https://github.com/yourusername/memory-efficient-training)
+- **Full code**: [GitHub Repository](https://github.com/Shellsss29/memory-efficient-training)
 - **Benchmark script**: See `benchmark.py` in the repo
 - **Requirements**: `requirements.txt` included
 
